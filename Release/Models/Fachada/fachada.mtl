@@ -1,0 +1,338 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd customer.png
+Ni 1.00
+newmtl pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd customer.png
+Ni 1.00
+newmtl pasted__pasted__pasted__phong9SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wellstacked.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks wellstacked_spec.png
+Ns 18.00
+newmtl pasted__pasted__phong1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks techo_spec.png
+Ns 18.00
+newmtl pasted__pasted__phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks madera_spec.png
+Ns 18.00
+newmtl pasted__pasted__phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks pared_spec.png
+Ns 18.00
+newmtl pasted__pasted__phong9SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wellstacked.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks wellstacked_spec.png
+Ns 18.00
+newmtl pasted__pasted__phong9SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wellstacked.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks wellstacked_spec.png
+Ns 18.00
+newmtl pasted__pasted__phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metal_specular.png
+Ns 18.00
+newmtl pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks techo_spec.png
+Ns 18.00
+newmtl pasted__phong1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks techo_spec.png
+Ns 18.00
+newmtl pasted__phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks madera_spec.png
+Ns 18.00
+newmtl pasted__phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks pared_spec.png
+Ns 18.00
+newmtl pasted__phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredgris.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks paredgris_spec.png
+Ns 18.00
+newmtl pasted__phong6SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredgris.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks paredgris_spec.png
+Ns 18.00
+newmtl pasted__phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wellstacked.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks wellstacked_spec.png
+Ns 18.00
+newmtl pasted__phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventanaInt.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks ventanaInterior_spec.png
+Ns 18.00
+newmtl pasted__phong11SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventanaInt.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks ventanaInterior_spec.png
+Ns 18.00
+newmtl pasted__phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd perfil.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks perfil_spec.png
+Ns 18.00
+newmtl pasted__phong12SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd perfil.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks perfil_spec.png
+Ns 18.00
+newmtl pasted__phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metal_specular.png
+Ns 18.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks techo_spec.png
+Ns 18.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredmadera.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks paredmadera_spec.png
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techogris.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks techogris_spec.png
+Ns 18.00
+newmtl phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredroja.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks paredroja_spec.png
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredgris.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks paredgris_spec.png
+Ns 18.00
+newmtl phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wellstacked.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks wellstacked_spec.png
+Ns 18.00
+newmtl phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks ventana_spec.png
+Ns 18.00
+newmtl phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillos.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks ladrillos_spec.png
+Ns 18.00
+newmtl phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisoconcreto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks pisoconcreto_spec.png
+Ns 18.00

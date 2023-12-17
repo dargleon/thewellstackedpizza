@@ -1,0 +1,30 @@
+newmtl pasted__phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puertaint.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks puertaint_spec.png
+Ns 18.00
+newmtl pasted__phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puertaext.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks puertaext_spec.png
+Ns 18.00
+newmtl pasted__phong16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks negrospecular.png
+Ns 18.00

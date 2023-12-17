@@ -1,0 +1,1806 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert4SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong1SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__phong3SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong1SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong1SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong3SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong1SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong1SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong1SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__pasted__phong3SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong1SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong3SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong3SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__pasted__phong3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__phong1SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__phong3SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl sillon:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon1:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon1:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon1:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon2:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon2:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon2:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon3:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon3:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon3:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon4:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon4:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon4:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon5:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon5:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon5:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon6:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon6:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon6:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon7:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon7:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon7:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon8:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon8:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon8:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon9:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon9:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon9:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon10:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon10:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon10:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon11:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon11:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon11:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon12:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon12:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon12:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon13:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon13:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon13:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon14:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon14:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon14:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon15:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon15:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon15:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon16:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon16:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon16:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon17:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon17:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon17:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon18:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon18:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon18:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon19:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon19:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon19:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon20:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon20:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon20:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon21:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon21:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon21:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon22:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon22:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon22:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon23:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinspecular.png
+Ns 18.00
+newmtl sillon23:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
+newmtl sillon23:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodspecular.png
+Ns 18.00
