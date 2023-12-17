@@ -1,0 +1,96 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalnegro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalnegro_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaclara.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaclara_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaoscura.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks maderaoscura_spec.png
+Ns 18.00
+newmtl pasted__pasted__pasted__phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
+newmtl pasted__pasted__phong1SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catsup.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks catsup_spec.png
+Ns 18.00
+newmtl pasted__pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostaza.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mostaza_spec.png
+Ns 18.00
+newmtl pasted__pasted__phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd servilletero.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks servilletero_spec.png
+Ns 18.00
+newmtl pasted__pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks menu_specular.png
+Ns 18.00
